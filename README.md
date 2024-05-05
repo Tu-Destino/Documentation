@@ -33,5 +33,11 @@ Propuestas:
 [ DOCUMENTO: ] ( https://docs.google.com/document/d/1YtkTJPjXdZvATbBetlwvPj4yivCxd100klISCgEP0yw/edit?usp=sharing )
 
 
+# Diagrama arquitectura de sotfware 
+
+!(https://res.cloudinary.com/dhtmy6izv/image/upload/kcmfif4v8mq6kmls5vz7.jpg)
+
+
+
 - - - -
 Mejoras, modificaciones e implementaciones para el proyecto futuras...

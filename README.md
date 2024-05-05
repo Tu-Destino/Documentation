@@ -35,7 +35,7 @@ Propuestas:
 
 # Diagrama arquitectura de sotfware 
 
-!(https://res.cloudinary.com/dhtmy6izv/image/upload/kcmfif4v8mq6kmls5vz7.jpg)
+! [](https://res.cloudinary.com/dhtmy6izv/image/upload/kcmfif4v8mq6kmls5vz7.jpg)
 
 
 

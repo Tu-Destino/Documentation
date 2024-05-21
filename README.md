@@ -1,5 +1,7 @@
 # Tu_Destino
 
+Somos un pequeño grupo de entusiastas que innova en las formas de transmitir información, creemos firmemente que todos tenemos un lugar hecho a nuestra medida, queremos que lo encuentres ;)
+
 ### Autores
 
     Kristopher Rivas
@@ -38,12 +40,12 @@ Propuestas:
 
 ## Diagrama de Clases
 
-![UML diagram class.](https://drive.google.com/file/d/1u4FwBy6sYz38b9DF7Y1wLJdrkqVerA47/view?usp=drive_link)
+![UML diagram class.](https://res.cloudinary.com/dhtmy6izv/image/upload/Diagrama_de_Clases.drawio_e0ma3q.jpg)
 
 ## Diagrama (DER) - Entidad Relacion
 
-![Entity diagram.](https://drive.google.com/file/d/1B5BnEwONu8E-0JmLwQNLrhr-c4BzzV8x/view?usp=drive_link)
+![Entity diagram.](https://res.cloudinary.com/dhtmy6izv/image/upload/DBv1.6.7_duz8sy.jpg)
 
 
 - - - -
-Mejoras, modificaciones e implementaciones para el proyecto futuras...
+

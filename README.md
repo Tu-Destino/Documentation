@@ -32,10 +32,17 @@ Propuestas:
 [ DOCUMENTO: ] ( https://docs.google.com/document/d/1YtkTJPjXdZvATbBetlwvPj4yivCxd100klISCgEP0yw/edit?usp=sharing )
 
 
-# Diagrama arquitectura de sotfware 
+## Diagrama Arquitectura de Sotfware 
 
 ![Arquitecture diagram.](https://res.cloudinary.com/dhtmy6izv/image/upload/kcmfif4v8mq6kmls5vz7.jpg)
 
+## Diagrama de Clases
+
+![UML diagram class.](https://drive.google.com/file/d/1u4FwBy6sYz38b9DF7Y1wLJdrkqVerA47/view?usp=drive_link)
+
+## Diagrama (DER) - Entidad Relacion
+
+![Entity diagram.](https://drive.google.com/file/d/1B5BnEwONu8E-0JmLwQNLrhr-c4BzzV8x/view?usp=drive_link)
 
 
 - - - -

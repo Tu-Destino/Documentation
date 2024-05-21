@@ -6,7 +6,6 @@
     Juan Manuel Cardenas
     Jimmy Flórez
     Carlos Rivera
-    Pablo Zuluaga
     Luisa Pérez
 
 #### Versión - 3.0
